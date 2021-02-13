@@ -1,0 +1,28 @@
+.NextStep{
+    background-color:rgb(12, 11, 100);
+    color:white;
+    padding:10px 30px;
+    border: 0;
+    border-radius:3px;
+    cursor:pointer;
+}
+.NextStep:hover{
+    background-color:rgb(90, 167, 230);
+
+}
+
+
+
+
+
+.finalPage h1{
+    text-align: left;
+    margin: 15px 0;
+    font-size: 50px;
+    font-family: Iscolapotha;
+    font-weight: bold;
+    color: black;
+    text-transform:none;
+    text-shadow:none;
+}
+

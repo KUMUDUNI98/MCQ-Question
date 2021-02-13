@@ -1,0 +1,16 @@
+.App{
+  align-items: center;
+  width:100%;
+  background-color:rgba(3, 16, 88, 0.966);
+  padding:50px 10px;
+}
+
+.content{
+  display:table;
+  max-width: 900px;
+  width:600px;
+  margin:0 auto;
+  background-color:rgb(189, 230, 230);
+  padding:30px;
+}
+
